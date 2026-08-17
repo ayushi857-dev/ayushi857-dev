@@ -1,24 +1,51 @@
-<img width="784" height="336" alt="WhatsApp Image 2026-08-18 at 3 36 33 AM" src="https://github.com/user-attachments/assets/16be9cef-0ffd-40ae-acca-a56f31cb38a4" />
-<h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
-<h3 align="center">Passionate Software Engineer interested in AI/ML, Data Systems & Problem Solving</h3>
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16be9cef-0ffd-40ae-acca-a56f31cb38a4" width="100%" alt="Software Engineer Banner" />
+</p>
 
-- 🔭 I’m currently working on **An aspiring Software Engineer passionate about AI/ML and technology**
-- 🌱 I’m currently learning **Python, C++, DSA, AI/ML, Git & GitHub**
-- 👯 I’m looking to collaborate on **An aspiring Software Engineer passionate about AI/ML and technology**
-- 🤝 I’m looking for help with **An aspiring Software Engineer passionate about AI/ML and technology**
-- 💬 Ask me about **Python, DSA, AI/ML and Software Engineering**
-- 📫 How to reach me **shuklaayushi720@gmail.com**
+<h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
+<h3 align="center">💻 Passionate Software Engineer interested in AI/ML, Data Systems & Problem Solving 🚀</h3>
+
+<br>
+
+<table border="0" width="100%">
+  <tr>
+    <!-- LEFT CARD: BULLET POINTS -->
+    <td width="58%" valign="top" style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px;">
+
+### 🚀 About Me
+
+- 🎓 **2nd Year BSc (PCM) Student** pursuing Advanced Certification in **AI/ML @ IIT Patna**
+- 💼 **AI Intern** & **Data Analytics Intern** gaining real-world industry experience
+- 🌐 Open Source Contributor @ **GSSoC (GirlScript Summer of Code)**
+- 🔭 Working on **AI/ML & Data Systems Projects**
+- 🌱 Learning **Python, C++, DSA, AI/ML, Git & GitHub**
+- 🤝 Looking to collaborate on **Innovative Tech & Open Source Projects**
+- 💬 Ask me about **Python, Data Structures, AI/ML & Analytics**
+- 📫 Reach me at: **shuklaayushi720@gmail.com**
 
     </td>
-    <td align="center" valign="middle" width="40%">
-      <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100%" />
+    
+    <!-- SPACE BETWEEN CARDS -->
+    <td width="4%"></td>
+
+    <!-- RIGHT CARD: GIF -->
+    <td width="38%" align="center" valign="middle" style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px;">
+      <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100%" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
 
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayushi857-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi857-dev" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushi857-dev" alt="ayushi857-dev" />
+  </a>
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayushi857-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi857-dev" />
 </p>
