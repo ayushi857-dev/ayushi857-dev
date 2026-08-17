@@ -1,5 +1,6 @@
+<img width="784" height="336" alt="WhatsApp Image 2026-08-18 at 3 36 33 AM" src="https://github.com/user-attachments/assets/16be9cef-0ffd-40ae-acca-a56f31cb38a4" />
 <h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
-<h3 align="center">An aspiring Software Engineer passionate about AI/ML and technology</h3>
+<h3 align="center">Passionate Software Engineer interested in AI/ML, Data Systems & Problem Solving</h3>
 <table>
   <tr>
     <td valign="top" width="60%">
