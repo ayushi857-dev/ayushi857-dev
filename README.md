@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
 <h3 align="center">An aspiring Software Engineer passionate about AI/ML and technology</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi857-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi857-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi857-dev" alt="ayushi857-dev" /></a> </p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 - 🔭 I’m currently working on **An aspiring Software Engineer passionate about AI/ML and technology**
 - 🌱 I’m currently learning **Python, C++, DSA, AI/ML, Git & GitHub**
@@ -12,6 +10,23 @@
 - 🤝 I’m looking for help with **An aspiring Software Engineer passionate about AI/ML and technology**
 - 💬 Ask me about **Python, DSA, AI/ML and Software Engineering**
 - 📫 How to reach me **shuklaayushi720@gmail.com**
+
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayushi857-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi857-dev" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushi857-dev" alt="ayushi857-dev" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
