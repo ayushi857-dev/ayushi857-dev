@@ -55,9 +55,9 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,css,django,flask,gcp,git,html,js,mysql,py,pytorch,react,tensorflow" alt="Languages and Tools" />
 </p>
 
-<h3 align="left">GitHub Streak:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ayushi857-dev&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushi857-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <h3 align="left">Contribution Graph:</h3>
