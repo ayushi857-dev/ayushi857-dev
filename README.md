@@ -55,11 +55,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,css,django,flask,gcp,git,html,js,mysql,py,pytorch,react,tensorflow" alt="Languages and Tools" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Streak & Achievements:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushi857-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushi857-dev&theme=onedark&column=3" alt="GitHub Trophies" />
 </p>
-
 <h3 align="left">Contribution Graph:</h3>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushi857-dev&theme=github-compact" alt="Contribution Graph" width="100%" />
